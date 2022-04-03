@@ -23,7 +23,7 @@ Config.Routes = {
 			{ pos = vector3(270.3956, -848.2022, 29.33044), stop = false },
 		}
 	},
-	--Example of new route use /busstop to get a bus stop ready to be pasted here 
+	--Example of new route
 	{
 		info = { 
 			color = 24, -- Route color https://wiki.gtanet.work/index.php?title=Blips#Blip_Colors
